@@ -1,0 +1,20 @@
+﻿{
+  "Version": 0,
+  "Name": "Motive",
+  "Description": "",
+  "Image": "",
+  "Priority": 1,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "Iris",
+      "Description": "",
+      "Files": {
+        "chara/common/texture/eye/eye01_mask.tex": "items\\chara\\common\\texture\\eye\\eye01_mask.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}
